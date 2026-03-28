@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hi. I'm Markson. I make codes.👋</h1>
+ <h1>Hi. I'm Markson. I do programming.👋</h1>
   I'm an amateur developer, also a high school student learning physics, chemistry and biology.<br>
   Although I seldom push things to GitHub, you can still take a look at my repos, or simply continue reading...<br>
   
