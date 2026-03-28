@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
+ <h1>Hi. I'm Markson. I make codes.👋</h1>
+  I'm an amateur developer, also a high school student learning physics, chemistry and biology.<br>
+  Although I seldom push things to GitHub, you can still take a look at my repos, or simply continue reading...<br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=cs,cmake,ubuntu,linux,ps,pr,rider,unity)](https://skillicons.dev)
+</div>
 
-<!--
-**Marksonthegamer/Marksonthegamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Skills (Great -> Poor)
+- Unity game development
+- C#
+- Localization
+- Adobe Premiere
+- Linux DE customization
+- Compiling GPU drivers
+- .NET Reverse Engineering
+- Vibe-coding
+- Python
+- To be filled...
 
-Here are some ideas to get you started:
+## 🤓 Favourites
+- Video games (Zenless Zone Zero, Reverse: 1999, Minecraft)
+- Coding in C# ("Yes! It works!")
+- Calm & lively musics (lo-fi, soundtracks, electronics, etc.)
+- Trying out Linux stuffs
+- Apple ecosystem and Intel Macintoshes &#63743;
+- Software MIDI Synthesizers (SonivoxEAS, FluidSynth)
+- Figuring out how things work
+- `fstrim -v /`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 PC Specs
+- Host: Mac Pro 2013 ("the trashcan")
+- RAM: 16GB with ECC
+- Processor: 16 × Intel® Xeon® CPU E5-2673 v2 @ 3.30GHz
+- GPU: 2 × AMD FirePro D300 2GB
+- Disks: Apple SDD 256GB + WD Blue SN580 1TB
+- OS: Ubuntu 24.04 LTS with Linux 6.14.0 x86_64
+- Display: Other
+<br>
+
+<div align="center">
+  <blockquote>
+    I always feel relieved when I plug in my Ethernet cable, and then all of a sudden - I witnesses the variety of online species.
+    <div align="right">Markson Hosben</div>
+  </blockquote>
+</div>
+
