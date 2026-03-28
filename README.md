@@ -33,7 +33,7 @@
 - RAM: 16GB with ECC
 - Processor: 16 × Intel® Xeon® CPU E5-2673 v2 @ 3.30GHz
 - GPU: 2 × AMD FirePro D300 2GB
-- Disks: Apple SDD 256GB + WD Blue SN580 1TB
+- Disks: Apple SSD 256GB + WD Blue SN580 1TB
 - OS: Ubuntu 24.04 LTS with Linux 6.14.0 x86_64
 <br>
 
