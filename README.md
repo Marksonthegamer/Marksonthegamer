@@ -36,7 +36,8 @@
 - Disks: Apple SSD 256GB + WD Blue SN580 1TB
 - OS: Ubuntu 24.04 LTS with Linux 6.14.0 x86_64
 <br>
-
+Contact me on Discord with username `mhosben31616`!
+<br>
 <div align="center">
   <blockquote>
     I always feel relieved when I plug in my Ethernet cable and witnesses the variety of online species at all of a sudden.
