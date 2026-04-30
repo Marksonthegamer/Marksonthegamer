@@ -38,6 +38,7 @@
 <br>
 Contact me on Discord with username `mhosben31616`!
 <br>
+
 <div align="center">
   <blockquote>
     I always feel relieved when I plug in my Ethernet cable and witnesses the variety of online species at all of a sudden.
