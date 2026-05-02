@@ -19,7 +19,7 @@
 - To be filled...
 
 ## 🤓 Favourites
-- Video games (Zenless Zone Zero, Reverse: 1999, Minecraft)
+- Video games (Zenless Zone Zero, Neverness To Everness, Minecraft)
 - Coding in C# ("Yes! It works!")
 - Calm & lively musics (lo-fi, soundtracks, electronics, etc.)
 - Trying out Linux stuffs
