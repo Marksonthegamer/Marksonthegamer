@@ -34,7 +34,7 @@
 - Processor: 16 × Intel® Xeon® CPU E5-2673 v2 @ 3.30GHz
 - GPU: 2 × AMD FirePro D300 2GB
 - Disks: Apple SSD 256GB + WD Blue SN580 1TB
-- OS: Ubuntu 24.04 LTS with Linux 7.0.1 x86_64
+- OS: Ubuntu 24.04 LTS with Linux 6.19.14-zen+ x86_64
 
 <div align="center">
  Contact me on Discord with username <code>mhosben31616</code>!
