@@ -30,7 +30,7 @@
 
 ## 💻 PC Specs
 - Host: Mac Pro 2013 ("the trashcan")
-- RAM: 16GB with ECC
+- RAM: 4 × 4GB DDR3 ECC UDIMM
 - Processor: 16 × Intel® Xeon® CPU E5-2673 v2 @ 3.30GHz
 - GPU: 2 × AMD FirePro D300 2GB
 - Disks: Apple SSD 256GB + WD Blue SN580 1TB
