@@ -24,7 +24,7 @@
 - Trying out Linux stuff🐧
 - Apple ecosystem and Intel Macintoshes &#63743;
 - Software MIDI Synthesizers (SonivoxEAS, FluidSynth)🎹
-- Figuring out how things work
+- Figuring out how things work and the possibility of their integration with other stuff
 - `fstrim -v /`
 
 ## 💻 PC Specs
