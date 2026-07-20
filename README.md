@@ -11,30 +11,29 @@
 - C#
 - Localization
 - Adobe Premiere Pro
-- Linux DE customization
-- Compiling GPU drivers
+- Linux ricing
 - .NET Reverse Engineering
-- Vibe-coding
+- Vibe-coding💀
 - Python
 - To be filled...
 
-## 🤓 Favourites
+## 🥰 Favourites
 - Video games (Zenless Zone Zero, Neverness To Everness, Minecraft)
-- Coding in C# ("Yes! It works!")
+- Coding in C# ("Yes! It works!✋😭🤚")
 - Calm & lively musics (lo-fi, soundtracks, electronics, etc.)
-- Trying out Linux stuffs
+- Trying out Linux stuff🐧
 - Apple ecosystem and Intel Macintoshes &#63743;
-- Software MIDI Synthesizers (SonivoxEAS, FluidSynth)
+- Software MIDI Synthesizers (SonivoxEAS, FluidSynth)🎹
 - Figuring out how things work
 - `fstrim -v /`
 
 ## 💻 PC Specs
 - Host: Mac Pro 2013 ("the trashcan")
 - RAM: 4 × 4GB DDR3 ECC UDIMM
-- Processor: 16 × Intel® Xeon® CPU E5-2673 v2 @ 3.30GHz
+- CPU: 16 × Intel® Xeon® CPU E5-2673 v2 @ 3.30GHz
 - GPU: 2 × AMD FirePro D300 2GB
 - Disks: Apple SSD 256GB + WD Blue SN580 1TB
-- OS: Ubuntu 24.04 LTS with Linux 6.19.14-zen+ x86_64
+- OS: Ubuntu 24.04 LTS with Linux 7.1.3-cachyos x86_64
 
 <div align="center">
  Contact me on Discord with username <code>mhosben31616</code>!
