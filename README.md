@@ -34,6 +34,7 @@
 - GPU: 2 × AMD FirePro D300 2GB
 - Disks: Apple SSD 256GB + WD Blue SN580 1TB
 - OS: Ubuntu 24.04 LTS with Linux 7.1.3-cachyos x86_64
+- Secondary OS: Windows 11 (24H2) Enterprise LTSC
 
 <div align="center">
  Contact me on Discord with username <code>mhosben31616</code>!
